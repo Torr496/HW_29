@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f43e2a14-4594-499e-935a-76f00226db38" name="Changes" comment="Third commit" />
+    <list default="true" id="f43e2a14-4594-499e-935a-76f00226db38" name="Changes" comment="Third commit">
+      <change afterPath="$PROJECT_DIR$/users/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ads/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ads/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hunting/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hunting/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hunting/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hunting/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -262,6 +270,9 @@
       <workItem from="1666253782493" duration="5721000" />
       <workItem from="1666427518388" duration="6731000" />
       <workItem from="1666436368865" duration="10235000" />
+      <workItem from="1666509141923" duration="5692000" />
+      <workItem from="1666700581132" duration="6926000" />
+      <workItem from="1666770523387" duration="4456000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1665911851242</created>
@@ -291,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666436346018</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Third commit">
+      <created>1666509228930</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666509228930</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
